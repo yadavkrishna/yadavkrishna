@@ -1,4 +1,4 @@
-- 👋 Hi, I’m krishan Yadav
+- 👋 Hi, I’m krishna Yadav
 - 👀 I’m interested in  web developement and android development
 - 🌱 I’m currently learning java,javascript,react
 - 💞️ I’m looking to collaborate on ...
